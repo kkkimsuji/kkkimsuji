@@ -8,9 +8,9 @@
 
 ## Papers
 
-- **Kim, S.**, Jin, L., Li, Q., Li, X., Yoon, C., & Kim, J. (2025). *Utilizing Advanced Transformers for Summarized Review-Aware Recommender System.*, *IEEE Access*. [[URL]](https://ieeexplore.ieee.org/abstract/document/11124908)
-- Jin, L., Li, X., **Kim, S.**, & Kim, J. *Balancing Long-Short Term User Preferences via Multilevel Sequential Patterns for Review-Aware Recommendation.*, Under Review.
-- Baek, D., **Kim, S.**, Li, X., Jin, L., & Kim, J. *Semantic Relevance–Based Review Weighting and Multihead Cross-Attention Fusion for Enhanced Recommender Systems.*, Under Review.
+- **Kim, S.**, Jin, L., Li, Q., Li, X., Yoon, C., & Kim, J. (2025). Utilizing Advanced Transformers for Summarized Review-Aware Recommender System., *IEEE Access*. [[URL]](https://ieeexplore.ieee.org/abstract/document/11124908)
+- Jin, L., Li, X., **Kim, S.**, & Kim, J. Balancing Long-Short Term User Preferences via Multilevel Sequential Patterns for Review-Aware Recommendation., Under Review.
+- Baek, D., **Kim, S.**, Li, X., Jin, L., & Kim, J. Semantic Relevance–Based Review Weighting and Multihead Cross-Attention Fusion for Enhanced Recommender Systems., Under Review.
 
 
 ## Conferences
@@ -24,8 +24,8 @@
 
 ## Awards
 
-- **최우수논문상**, 한국지능정보시스템학회 추계학술대회 (`2024.11.01`) — *Leveraging AI-Driven Advanced Transformer for Summarized Review-Aware Recommendation*
-- **장려상**, 한국경영과학회 추계학술대회 (`2025.11.01`) — *아이템 설명 의미 기반 리뷰 가중화 추천 시스템*
+- **최우수논문상**, 한국지능정보시스템학회 추계학술대회 (`2024.11.01`) — Leveraging AI-Driven Advanced Transformer for Summarized Review-Aware Recommendation
+- **장려상**, 한국경영과학회 추계학술대회 (`2025.11.01`) — 아이템 설명 의미 기반 리뷰 가중화 추천 시스템
 
 ## Certificates
 
