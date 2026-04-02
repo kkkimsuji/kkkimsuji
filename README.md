@@ -5,7 +5,7 @@
 - `2022.03 ~ 2024.02` 삼육대학교 IT융합공학과 공학 학사 졸업 (학점: 4.42 / 4.5)
 
 ## Papers
-
+- Park, M., **Kim, S.**, Li, X., Park, S., & Kim, J. (2026). Enhancing Recommendation with Integration of Extractive and Abstractive Summarization. *Electronics*, 15(7), 1477. [[DOI]](https://doi.org/10.3390/electronics15071477) 
 - Jin, L., Li, X., **Kim, S.**, & Kim, J. (2026). Balancing Long–Short-Term User Preferences via Multilevel Sequential Patterns for Review-Aware Recommendation. *Electronics*, 15(4), 753. [[DOI]](https://doi.org/10.3390/electronics15040753) 
 - **Kim, S.**, Jin, L., Li, Q., Li, X., Yoon, C., & Kim, J. (2025). Utilizing Advanced Transformers for Summarized Review-Aware Recommender System., *IEEE Access*. [[DOI]](https://doi.org/10.1109/ACCESS.2025.3598937)
 
