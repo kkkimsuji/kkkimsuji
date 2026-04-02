@@ -16,7 +16,7 @@
 - `2025.11.01.` 백대환, 이흠철, **김수지**, 김재경. 아이템 설명 의미 기반 리뷰 가중화 추천 시스템, *한국경영과학회 2025년 추계학술대회*.
 - `2025.11.01.` 표성주, **김수지**, 이흠철, 김재경. 고객 리뷰에 내재된 감정 정보와 의미 정보를 통합한 추천 시스템의 성능 향상, *한국경영과학회 2025년 추계학술대회*.
 - `2025.11.01.` 박민경, **김수지**, 이흠철, 박선우, 김재경. 추출형 및 추상형 요약의 중요도를 고려한 리뷰 기반의 추천 시스템 성능 향상, *한국경영과학회 2025년 추계학술대회*.
-- `2024.11.01.` **김수지**, Jin, L., Li, X., Li, Q., & Kim, J. Leveraging AI-Driven Advanced Transformer for Summarized Review-Aware Recommendation, *한국지능정보시스템학회 2024년 추계학술대회*.
+- `2024.11.01.` **김수지**, Jin, L., Li, X., Li, Q., & 김재경. Leveraging AI-Driven Advanced Transformer for Summarized Review-Aware Recommendation, *한국지능정보시스템학회 2024년 추계학술대회*.
 
 ## Awards
 
